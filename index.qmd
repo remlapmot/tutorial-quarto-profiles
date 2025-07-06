@@ -1,0 +1,26 @@
+---
+title: Example tutorial output documents from generated using Quarto profiles
+format:
+  html:
+    embed-resources: true
+---
+
+## Documents with one language per document
+
+* R
+  * [Questions](./tutorial-r-questions.html)
+  * [Solutions](./tutorial-r-solutions.html)
+* Python
+  * [Questions](./tutorial-python-questions.html)
+  * [Solutions](./tutorial-python-solutions.html)
+* Stata
+  * [Questions](./tutorial-stata-questions.html)
+  * [Solutions](./tutorial-stata-solutions.html)
+* Julia
+  * [Questions](./tutorial-julia-questions.html)
+  * [Solutions](./tutorial-julia-solutions.html)
+
+## Combined language document
+
+* [Questions](./tutorial-combined-questions.html)
+* [Solutions](./tutorial-combined-solutions.html)
