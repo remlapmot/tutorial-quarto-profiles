@@ -21,15 +21,15 @@ This is the text for question 1, with its accompanying code
 
 ## Python
 
-{{< embed tutorial-python.qmd#python-q1 echo=true >}}
+{{< embed tutorial-python-combined.qmd#python-q1 echo=true >}}
 
 ## Stata
 
-{{< embed tutorial-stata.qmd#stata-q1 echo=true >}}
+{{< embed tutorial-stata-combined.qmd#stata-q1 echo=true >}}
 
 ## Julia
 
-{{< embed tutorial-julia.qmd#julia-q1 echo=true >}}
+{{< embed tutorial-julia-combined.qmd#julia-q1 echo=true >}}
 
 :::
 
@@ -49,13 +49,15 @@ print("Hello, world!")
 
 ## Python
 
+{{< embed tutorial-python-combined.qmd#python-s1 echo=true >}}
 
 ## Stata
 
+{{< embed tutorial-stata-combined.qmd#stata-s1 echo=true >}}
 
 ## Julia
 
-
+{{< embed tutorial-julia-combined.qmd#julia-s1 echo=true >}}
 
 :::
 :::
