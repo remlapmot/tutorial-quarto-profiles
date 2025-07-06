@@ -6,6 +6,7 @@ uv add jupyterlab nbstata jupyterlab_stata_highlight2
 source .venv/bin/activate
 # Windows: source .venv/Scripts/activate
 python -m nbstata.install --sys-prefix
+export PYTHONPATH=/Applications/Stata/utilities
 ./render.sh
 deactivate
 
@@ -17,5 +18,6 @@ uv sync
 source .venv/bin/activate
 # Windows: source .venv/Scripts/activate
 python -m nbstata.install --sys-prefix
+export PYTHONPATH=/Applications/Stata/utilities
 ./render.sh
 deactivate
