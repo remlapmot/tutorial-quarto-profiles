@@ -1,0 +1,6 @@
+project:
+  render:
+    - tutorial-r.qmd
+title: 'Questions document: R version'
+execute:
+  eval: false

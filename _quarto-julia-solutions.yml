@@ -1,0 +1,4 @@
+project:
+  render:
+    - tutorial-julia.qmd
+title: 'Solutions document: Julia version'

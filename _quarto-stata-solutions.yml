@@ -1,0 +1,4 @@
+project:
+  render:
+    - tutorial-stata.qmd
+title: 'Solutions document: Stata version'

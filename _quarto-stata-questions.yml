@@ -1,0 +1,6 @@
+project:
+  render:
+    - tutorial-stata.qmd
+title: 'Questions document: Stata version'
+execute:
+  eval: false

@@ -1,0 +1,4 @@
+project:
+  render:
+    - tutorial-r.qmd
+title: 'Solutions document: R version'

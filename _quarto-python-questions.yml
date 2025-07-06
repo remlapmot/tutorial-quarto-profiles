@@ -1,0 +1,6 @@
+project:
+  render:
+    - tutorial-python.qmd
+title: 'Questions document: Python version'
+execute:
+  eval: false

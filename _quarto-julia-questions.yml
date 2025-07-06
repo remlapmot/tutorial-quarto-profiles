@@ -1,0 +1,6 @@
+project:
+  render:
+    - tutorial-julia.qmd
+title: 'Questions document: Julia version'
+execute:
+  eval: false

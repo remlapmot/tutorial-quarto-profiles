@@ -1,0 +1,4 @@
+project:
+  render:
+    - tutorial-python.qmd
+title: 'Solutions document: Python version'
