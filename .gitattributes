@@ -3,3 +3,5 @@
 *.sh eol=lf
 *.toml eol=lf
 *.lock eol=lf
+*.html linguist-vendored
+*.qmd linguist-detectable
