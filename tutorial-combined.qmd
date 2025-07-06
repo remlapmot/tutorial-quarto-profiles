@@ -25,11 +25,11 @@ This is the text for question 1, with its accompanying code
 
 ## Stata
 
-
+{{< embed tutorial-stata.qmd#stata-q1 echo=true >}}
 
 ## Julia
 
-
+{{< embed tutorial-julia.qmd#julia-q1 echo=true >}}
 
 :::
 
