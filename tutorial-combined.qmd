@@ -33,7 +33,7 @@ This is the text for question 1, with its accompanying code
 
 :::
 
-::: {.content-visible when-profile="combined-solutions"}
+:::: {.content-visible when-profile="combined-solutions"}
 Text for the solution to question 1.
 
 You can include additional code chunks if required.
@@ -60,7 +60,7 @@ print("Hello, world!")
 {{< embed tutorial-julia-combined.qmd#julia-s1 echo=true >}}
 
 :::
-:::
+::::
 
 ## Question 2
 
