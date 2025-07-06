@@ -4,6 +4,7 @@ uv add uv add jupyterlab nbstata jupyterlab_stata_highlight2 papermill
 
 # To restore the .venv
 uv sync
+
 # Then activate the virtual environment, etc
 source .venv/bin/activate
 # Windows: source .venv/Scripts/activate
