@@ -10,7 +10,7 @@ jupyter: nbstata
 This is the text for question 1, with its accompanying code 
 
 ```{stata}
-#| label: stata-q1
+*| label: stata-q1
 // Example code for the question
 display 1 + 1
 ```
@@ -21,7 +21,7 @@ Text for the solution to question 1.
 You can include additional code chunks if required.
 
 ```{stata}
-#| label: stata-s1
+*| label: stata-s1
 // Additional code chunk for the solution
 display "Hello, world!"
 ```
