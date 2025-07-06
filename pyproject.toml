@@ -4,4 +4,8 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13.5"
-dependencies = []
+dependencies = [
+    "jupyterlab>=4.4.4",
+    "jupyterlab-stata-highlight2>=0.1.2",
+    "nbstata>=0.8.2",
+]
