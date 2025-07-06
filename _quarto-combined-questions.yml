@@ -1,0 +1,6 @@
+project:
+  render:
+    - tutorial-combined.qmd
+title: 'Questions document: R, Python, Stata, and Julia version'
+execute:
+  eval: false
