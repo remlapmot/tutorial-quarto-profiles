@@ -11,6 +11,7 @@ This is the text for question 1, with its accompanying code
 
 ```{julia}
 # Example code for the question
+1 + 1
 ```
 
 ::: {.content-visible when-profile="julia-solutions"}
@@ -20,6 +21,7 @@ You can include additional code chunks if required.
 
 ```{julia}
 # Additional code chunk for the solution
+println("Hello, world!")
 ```
 :::
 
