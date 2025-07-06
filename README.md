@@ -14,3 +14,9 @@ Then activate the virtual environment, etc
 source .venv/bin/activate
 # Windows: source .venv/Scripts/activate
 ```
+
+Render the files by running the render.sh script
+
+```sh
+./render.sh
+```
