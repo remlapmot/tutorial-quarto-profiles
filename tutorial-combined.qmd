@@ -33,7 +33,7 @@ This is the text for question 1, with its accompanying code
 
 :::
 
-::: {.content-visible when-profile="python-solutions"}
+::: {.content-visible when-profile="combined-solutions"}
 Text for the solution to question 1.
 
 You can include additional code chunks if required.
