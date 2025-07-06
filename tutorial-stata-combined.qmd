@@ -1,0 +1,30 @@
+---
+format:
+  html:
+    embed-resources: true
+jupyter: nbstata 
+---
+
+## Question 1
+
+This is the text for question 1, with its accompanying code 
+
+```{stata}
+*| label: stata-q1
+// Example code for the question
+display 1 + 1
+```
+
+Text for the solution to question 1.
+
+You can include additional code chunks if required.
+
+```{stata}
+*| label: stata-s1
+// Additional code chunk for the solution
+display "Hello, world!"
+```
+
+## Question 2
+
+This is the text for question 2 ...
