@@ -49,7 +49,6 @@ print("Hello, world!")
 
 ## Python
 
-{{< embed tutorial-python.qmd#python-s1 echo=true >}}
 
 ## Stata
 
