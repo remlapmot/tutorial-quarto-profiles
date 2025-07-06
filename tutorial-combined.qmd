@@ -2,7 +2,8 @@
 format:
   html:
     embed-resources: true
-engine: knitr 
+engine: knitr
+notebook-links: false
 ---
 
 ## Question 1
@@ -20,7 +21,7 @@ This is the text for question 1, with its accompanying code
 
 ## Python
 
-
+{{< embed tutorial-python.qmd#python-q1 echo=true >}}
 
 ## Stata
 
@@ -48,6 +49,7 @@ print("Hello, world!")
 
 ## Python
 
+{{< embed tutorial-python.qmd#python-s1 echo=true >}}
 
 ## Stata
 
