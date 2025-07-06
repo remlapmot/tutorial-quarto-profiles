@@ -1,7 +1,4 @@
 ---
-format:
-  html:
-    embed-resources: true
 jupyter: python3 
 ---
 

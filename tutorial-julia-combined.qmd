@@ -1,7 +1,4 @@
 ---
-format:
-  html:
-    embed-resources: true
 engine: julia 
 ---
 
