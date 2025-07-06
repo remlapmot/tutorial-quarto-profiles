@@ -1,0 +1,28 @@
+---
+format:
+  html:
+    embed-resources: true
+jupyter: nbstata 
+---
+
+## Question 1
+
+This is the text for question 1, with its accompanying code 
+
+```{stata}
+// Example code for the question
+```
+
+::: {.content-visible when-profile="stata-solutions"}
+Text for the solution to question 1.
+
+You can include additional code chunks if required.
+
+```{stata}
+// Additional code chunk for the solution
+```
+:::
+
+## Question 2
+
+This is the text for question 2 ...
