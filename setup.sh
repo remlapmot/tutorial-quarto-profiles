@@ -3,6 +3,9 @@ uv init --python 3.13.5
 uv add jupyterlab nbstata jupyterlab_stata_highlight2
 # If using parameters
 # uv add papermill
+source .venv/bin/activate
+# Windows: source .venv/Scripts/activate
+python -m nbstata.install --sys-prefix
 
 # To restore the .venv
 uv sync
@@ -10,3 +13,4 @@ uv sync
 # Then activate the virtual environment, etc
 source .venv/bin/activate
 # Windows: source .venv/Scripts/activate
+python -m nbstata.install --sys-prefix
