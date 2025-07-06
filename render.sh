@@ -14,3 +14,6 @@ quarto render --profile julia-solutions -o tutorial-julia-solutions.html
 # combined language document
 quarto render --profile combined-questions -o tutorial-combined-questions.html
 quarto render --profile combined-solutions -o tutorial-combined-solutions.html
+
+# render the webpage for the repo github pages site
+quarto render index.qmd
