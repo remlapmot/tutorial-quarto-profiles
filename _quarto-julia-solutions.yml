@@ -2,3 +2,7 @@ project:
   render:
     - tutorial-julia.qmd
 title: 'Solutions document: Julia version'
+format:
+  html:
+    output-file: "tutorial-julia-solutions"
+    output-ext:  "html"

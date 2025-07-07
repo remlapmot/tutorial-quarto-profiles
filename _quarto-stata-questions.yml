@@ -4,3 +4,7 @@ project:
 title: 'Questions document: Stata version'
 execute:
   eval: false
+format:
+  html:
+    output-file: "tutorial-stata-questions"
+    output-ext:  "html"

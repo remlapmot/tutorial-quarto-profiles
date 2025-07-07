@@ -2,3 +2,7 @@ project:
   render:
     - tutorial-r.qmd
 title: 'Solutions document: R version'
+format:
+  html:
+    output-file: "tutorial-r-solutions"
+    output-ext:  "html"

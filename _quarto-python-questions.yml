@@ -4,3 +4,7 @@ project:
 title: 'Questions document: Python version'
 execute:
   eval: false
+format:
+  html:
+    output-file: "tutorial-python-questions"
+    output-ext:  "html"

@@ -1,19 +1,19 @@
 # Separate documents for each language
-quarto render --profile r-questions -o tutorial-r-questions.html
-quarto render --profile r-solutions -o tutorial-r-solutions.html
+quarto render --profile r-questions
+quarto render --profile r-solutions
 
-quarto render --profile python-questions -o tutorial-python-questions.html
-quarto render --profile python-solutions -o tutorial-python-solutions.html
+quarto render --profile python-questions
+quarto render --profile python-solutions
 
-quarto render --profile stata-questions -o tutorial-stata-questions.html
-quarto render --profile stata-solutions -o tutorial-stata-solutions.html
+quarto render --profile stata-questions
+quarto render --profile stata-solutions
 
-quarto render --profile julia-questions -o tutorial-julia-questions.html
-quarto render --profile julia-solutions -o tutorial-julia-solutions.html
+quarto render --profile julia-questions
+quarto render --profile julia-solutions
 
 # combined language document
-quarto render --profile combined-questions -o tutorial-combined-questions.html
-quarto render --profile combined-solutions -o tutorial-combined-solutions.html
+quarto render --profile combined-questions
+quarto render --profile combined-solutions
 
 # render the webpage for the repo github pages site
 quarto render index.qmd

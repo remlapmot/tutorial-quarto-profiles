@@ -4,3 +4,7 @@ project:
 title: 'Questions document: Julia version'
 execute:
   eval: false
+format:
+  html:
+    output-file: "tutorial-julia-questions"
+    output-ext:  "html"

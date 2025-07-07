@@ -2,3 +2,7 @@ project:
   render:
     - tutorial-stata.qmd
 title: 'Solutions document: Stata version'
+format:
+  html:
+    output-file: "tutorial-stata-solutions"
+    output-ext:  "html"

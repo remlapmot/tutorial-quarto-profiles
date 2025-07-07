@@ -2,3 +2,7 @@ project:
   render:
     - tutorial-python.qmd
 title: 'Solutions document: Python version'
+format:
+  html:
+    output-file: "tutorial-python-solutions"
+    output-ext:  "html"

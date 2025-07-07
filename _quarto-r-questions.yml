@@ -4,3 +4,7 @@ project:
 title: 'Questions document: R version'
 execute:
   eval: false
+format:
+  html:
+    output-file: "tutorial-r-questions"
+    output-ext:  "html"

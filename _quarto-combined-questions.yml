@@ -4,3 +4,7 @@ project:
 title: 'Questions document: R, Python, Stata, and Julia version'
 execute:
   eval: false
+format:
+  html:
+    output-file: "tutorial-combined-questions"
+    output-ext:  "html"
