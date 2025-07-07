@@ -13,8 +13,9 @@ quarto render --profile julia-solutions
 
 # combined language document
 rm -rf .quarto/embed
-quarto render --profile combined-solutions
 quarto render --profile combined-questions
+rm -rf .quarto/embed
+quarto render --profile combined-solutions
 
 # render the webpage for the repo github pages site
 quarto render index.qmd
