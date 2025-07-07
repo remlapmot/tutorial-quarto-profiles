@@ -12,6 +12,7 @@ quarto render --profile julia-questions
 quarto render --profile julia-solutions
 
 # combined language document
+rm -rf .quarto/embed
 quarto render --profile combined-solutions
 quarto render --profile combined-questions
 
