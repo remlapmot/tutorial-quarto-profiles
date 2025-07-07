@@ -1,6 +1,5 @@
 ---
 jupyter: nbstata
-freeze: false 
 ---
 
 ## Question 1

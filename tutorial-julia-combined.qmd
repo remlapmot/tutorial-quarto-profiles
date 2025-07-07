@@ -1,6 +1,5 @@
 ---
 engine: julia
-freeze: false
 ---
 
 ## Question 1
