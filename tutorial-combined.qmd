@@ -4,6 +4,7 @@ format:
     embed-resources: true
 engine: knitr
 notebook-links: false
+freeze: false
 ---
 
 ## Question 1

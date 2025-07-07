@@ -1,5 +1,6 @@
 ---
-jupyter: python3 
+jupyter: python3
+freeze: false 
 ---
 
 ## Question 1
