@@ -1,0 +1,10 @@
+project:
+  render:
+    - tutorial-combined2.qmd
+title: 'Questions document: R and Python version'
+execute:
+  eval: false
+format:
+  html:
+    output-file: "tutorial-combined2-questions"
+    output-ext:  "html"
