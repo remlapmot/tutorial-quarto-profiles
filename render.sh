@@ -22,5 +22,16 @@ rm -rf .quarto/embed
 quarto render --profile combined-questions
 quarto render --profile combined-solutions
 
+# Example with just R and Python
+## correct second render
+rm -rf .quarto/embed
+quarto render --profile combined2-questions
+rm -rf .quarto/embed
+quarto render --profile combined2-solutions
+## incorrect second render
+rm -rf .quarto/embed
+quarto render --profile combined2-questions
+quarto render --profile combined2-solutions
+
 # render the webpage for the repo github pages site
 quarto render index.qmd
