@@ -32,6 +32,7 @@ quarto render --profile combined2-solutions
 rm -rf .quarto/embed
 quarto render --profile combined2-questions
 quarto render --profile combined2-solutions
+mv tutorial-combined2-solutions.html tutorial-combined2-solutions-incorrect.html
 
 # render the webpage for the repo github pages site
 quarto render index.qmd
