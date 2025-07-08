@@ -25,7 +25,7 @@ This is the text for question 1, with its accompanying code
 
 :::
 
-:::: {.content-visible when-profile="combined-r-python-solutions"}
+:::: {.content-visible when-profile="combined2-solutions"}
 Text for the solution to question 1.
 
 You can include additional code chunks if required.
