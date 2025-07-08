@@ -1,0 +1,8 @@
+project:
+  render:
+    - tutorial-combined2.qmd
+title: 'Solutions document: R and Python version'
+format:
+  html:
+    output-file: "tutorial-combined2-solutions"
+    output-ext:  "html"
