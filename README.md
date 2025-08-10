@@ -19,7 +19,7 @@ If running the documents using Stata run
 
 ```sh
 python -m nbstata.install --sys-prefix
-export PYTHONPATH=/Applications/Stata/utilities
+# export PYTHONPATH=/Applications/Stata/utilities
 ```
 
 Render the files by running the render.sh script
